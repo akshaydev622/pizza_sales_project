@@ -1,5 +1,5 @@
 # pizza_sales_project
-# Pixxa sales SQL Project
+# Pizza sales SQL Project
 
 ## Project Overview
 
